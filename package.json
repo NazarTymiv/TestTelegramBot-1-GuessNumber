@@ -1,0 +1,17 @@
+{
+  "name": "testbot1",
+  "version": "1.0.0",
+  "description": "TestBot1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "TripToon",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.54.0",
+    "nodemon": "^2.0.15"
+  }
+}
